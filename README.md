@@ -1,6 +1,6 @@
 # saucedemo-test
 
-Este proyecto contiene pruebas automatizadas con **Selenium + Pytest** usando el patrón **Page Object Model (POM)**.
+Este proyecto contiene pruebas automatizadas con Selenium y Pytest usando el patrón Page Object Model (POM).
 
 #Requisitos
 - Python 3.8+
